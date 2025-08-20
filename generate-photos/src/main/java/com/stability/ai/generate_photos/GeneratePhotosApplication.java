@@ -9,6 +9,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 public class GeneratePhotosApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(GeneratePhotosApplication.class, args);
 	}
 
